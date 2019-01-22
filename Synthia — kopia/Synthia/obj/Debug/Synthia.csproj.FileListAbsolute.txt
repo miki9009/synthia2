@@ -1,0 +1,13 @@
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\bin\Debug\Synthia.exe.config
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\bin\Debug\Synthia.exe
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\bin\Debug\Synthia.pdb
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\obj\Debug\Synthia.csprojResolveAssemblyReference.cache
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\obj\Debug\Synthia.exe
+c:\users\miki9\documents\visual studio 2017\Projects\Synthia\Synthia\obj\Debug\Synthia.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\bin\Debug\Synthia.exe.config
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\bin\Debug\Synthia.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\bin\Debug\Synthia.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\obj\Debug\Synthia.csprojResolveAssemblyReference.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\obj\Debug\Synthia.csproj.CoreCompileInputs.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\obj\Debug\Synthia.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Synthia — kopia\Synthia\obj\Debug\Synthia.pdb
